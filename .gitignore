@@ -4,7 +4,8 @@
 
 # You can whitelist files/folders with !, these will not be ignored.
 !*.ipynb
-!/Data**
+!/input**
+!/output**
 !.gitignore
 # Ignore folders.
 .ipynb_checkpoints
